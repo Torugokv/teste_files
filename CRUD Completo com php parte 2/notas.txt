@@ -1,0 +1,11 @@
+Objetivos
+
+Envio de e-mails automático para o usuário quando ele for cadastrado;
+Adicionar senhas com criptografia
+Definição da foto do usuário
+Login
+Esqueceu a senha
+
+Cadastrar Cliente
+
+Enviar E-mail quando um novo cliente for  
